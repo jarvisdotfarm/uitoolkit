@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/farmhubbsc",
+        href: "https://t.me/joinchat/uHC38tOwSJlhNzNl",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/farmhubannouncements",
+        href: "https://t.me/joinchat/hkZZZUedcsJkYTc11",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/farmhubbsc",
+    href: "https://twitter.com/jarvisdotfarm",
   },
 ];
 
